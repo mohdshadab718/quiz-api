@@ -1,0 +1,14 @@
+{
+  "name": "quiz-api",
+  "version": "1.0.0",
+  "description": "this is a quiz-api build for online examnation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mohd Shadab",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
